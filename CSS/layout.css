@@ -1,1 +1,180 @@
+*{
+    margin: 0;
+}
 
+body{
+    background: #e2e2e2;
+}
+
+.topo{
+    width: 100%;
+    height: 60px;
+    background: #041c65;
+    position: absolute;
+}
+
+.logo{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    margin-top: 12.5px;
+    margin-left: 30px;
+}
+
+.menu{
+    color: #ffffff;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 20px;
+    right: 5%;
+}
+
+.corpo{
+    width: 1000px;
+    height: 800px;
+    background: white;
+    margin-top: 60px;
+    margin-left: 400px;
+    position: absolute;
+}
+
+.rodape{
+    width: 100%;
+    height: 60px;
+    background: #041c65;
+    position: absolute;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 900px;
+}
+
+.cursos{
+    background: #c3c3c3;
+    width: 960px;
+    height: 30px;
+    margin-left: 15px;
+    padding: 5px;
+}
+
+.titulo{
+    font-size: 30px;
+    font-weight: bold;
+    color: #041c65;
+    margin-left: 15px;
+}
+
+img{
+    width: 15px;
+    margin-left: 15px;
+}
+
+.person{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 700px;
+    width: 300px;
+    height: 450px;
+}
+
+a:visited{
+    color: red;
+}
+
+a:link{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #7d7d7d;
+}
+
+a:active{
+    color: orange;
+}
+
+.formulario{
+    width: 300px;
+    height: 400px;
+    background: #b28383;
+}
+
+.formatatextfield{
+    border-radius: 5px;
+    border-style: none;
+    background: #dfdfdf;
+    width: 250px;
+    height: 20px;
+    font-size: 14px;
+}
+
+.formatatextarea{
+    border-radius: 5px;
+    border-style: none;
+    background: #dfdfdf;
+    width: 250px;
+    height: 80px;
+    font-size: 14px;
+}
+
+.label{
+    margin-right: 205px;
+}
+
+.labeltwo{
+    margin-right: 180px;
+}
+
+button{
+    width: 90%;
+    background: #041c65;
+    color: white;
+    height: 30px;
+    border-radius: 7px;
+    border-style: none;
+
+}
+
+h2{
+    font-size: 45px;
+    color: #041c65;
+    text-align: center;
+}
+
+.titulosobrecursos{
+    font-size: 30px;
+    font-weight: bold;
+    color: #041c65;
+    margin-left: 15px;
+}
+
+.titulomodcursos{
+    font-size: 20px;
+    font-weight: bold;
+    color: #041c65;
+    margin-left: 15px;
+}
+
+form{
+    text-align: center;
+}
+
+.senai2{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 545px;
+    width: 450px;
+    height: 300px;
+}
+
+.subsenai2{
+    margin-top: 555px;
+    margin-left: 625px;
+    position: absolute;
+}
+
+p{
+    margin-left: 15px;
+    margin-right: 15px;
+}
